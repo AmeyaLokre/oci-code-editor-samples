@@ -1,5 +1,23 @@
 # OCI Code Editor Samples
 
+Try our new feature:(Click, Clone and Launch)
+-------------------
+
+Clone the repository in OCI Cloud Shell: [![Clone in Cloud Shell](https://github.com/AmeyaLokre/oci-code-editor-samples/blob/master/ccl-csh-mac-resize.png?raw=true)](https://cloud.oracle.com/?region=us-ashburn-1&configoverride={"plugins":{"cloudshell":{"name":"cloudshell","path":"/cloudshell","url":"https://cloud-staging.oracle.com/plugins/cloudshell/latest/staging-oc1-index.tpl.html?cloudshellBackend=dev","type":"Sandbox"}},"features":{"code-editor":true,"cloudshellBackend":"dev","cse-enabled":"true"}}&tenant=bmc_operator_access&provider=ocna-saml&override_tenant=ocid1.tenancy.oc1..aaaaaaaau2kvkmgovgfzrfnuhh47x3kxmtkuqe6hzsfby5yst2hhr5comnda&cs_repo_url=https://github.com/oracle-devrel/oci-code-editor-samples.git&cs_open_ce=true&cs_readme_path=README.md&cs_branch=pre-prod&cs_initscript_path=run.sh)
+
+Open the repository in OCI Code Editor: [![Open in Code Editor](https://github.com/AmeyaLokre/oci-code-editor-samples/blob/master/ccl-ce-mac-resize.png?raw=true)](https://cloud.oracle.com/?region=us-ashburn-1&configoverride={"plugins":{"cloudshell":{"name":"cloudshell","path":"/cloudshell","url":"https://cloud-staging.oracle.com/plugins/cloudshell/latest/staging-oc1-index.tpl.html?cloudshellBackend=dev","type":"Sandbox"}},"features":{"code-editor":true,"cloudshellBackend":"dev","cse-enabled":"true"}}&tenant=bmc_operator_access&provider=ocna-saml&override_tenant=ocid1.tenancy.oc1..aaaaaaaau2kvkmgovgfzrfnuhh47x3kxmtkuqe6hzsfby5yst2hhr5comnda&cs_repo_url=https://github.com/oracle-devrel/oci-code-editor-samples.git&cs_open_ce=true&cs_readme_path=README.md&cs_branch=pre-prod&cs_initscript_path=run.sh)
+
+
+Try our new feature:(Click, Clone and Launch) (uses Fahd's team tenancy)
+--------------------
+
+Clone the repository in OCI Cloud Shell: [![Clone in Cloud Shell](https://github.com/AmeyaLokre/oci-code-editor-samples/blob/master/ccl-csh-mac-resize.png?raw=true)](https://cloud.oracle.com/?region=us-ashburn-1&configoverride={"plugins":{"cloudshell":{"name":"cloudshell","path":"/cloudshell","url":"https://cloud-staging.oracle.com/plugins/cloudshell/latest/staging-oc1-index.tpl.html?cloudshellBackend=dev","type":"Sandbox"}},"features":{"code-editor":true,"cloudshellBackend":"dev","cse-enabled":"true"}}&tenant=bmc_operator_access&provider=ocna-saml&override_tenant=ocid1.tenancy.oc1..aaaaaaaasu7rvefmsyk5kqczfmdqi5clpddejfjk2attdqnk6sbk72wajq5q&cs_repo_url=https://github.com/oracle-devrel/oci-code-editor-samples.git&cs_open_ce=true&cs_readme_path=README.md&cs_branch=pre-prod&cs_initscript_path=run.sh)
+
+Open the repository in OCI Code Editor: [![Open in Code Editor](https://github.com/AmeyaLokre/oci-code-editor-samples/blob/master/ccl-ce-mac-resize.png?raw=true)](https://cloud.oracle.com/?region=us-ashburn-1&configoverride={"plugins":{"cloudshell":{"name":"cloudshell","path":"/cloudshell","url":"https://cloud-staging.oracle.com/plugins/cloudshell/latest/staging-oc1-index.tpl.html?cloudshellBackend=dev","type":"Sandbox"}},"features":{"code-editor":true,"cloudshellBackend":"dev","cse-enabled":"true"}}&tenant=bmc_operator_access&provider=ocna-saml&override_tenant=ocid1.tenancy.oc1..aaaaaaaasu7rvefmsyk5kqczfmdqi5clpddejfjk2attdqnk6sbk72wajq5q&cs_repo_url=https://github.com/oracle-devrel/oci-code-editor-samples.git&cs_open_ce=true&cs_readme_path=README.md&cs_branch=pre-prod&cs_initscript_path=run.sh)
+
+-----------------
+(Information below this not needed for CCL demo)
+
 [![License: UPL](https://img.shields.io/badge/license-UPL-green)](https://img.shields.io/badge/license-UPL-green) [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=oracle-devrel_oci-code-editor-samples)](https://sonarcloud.io/dashboard?id=oracle-devrel_oci-code-editor-samples)
 
 ## Introduction
