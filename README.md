@@ -3,9 +3,9 @@
 Click, Clone and Launch (CCl) feature links for **pentest**:
 -------------------
 
-Clone the repository in OCI Cloud Shell: [![Clone in Cloud Shell](https://github.com/hyddel/db-appdev-vm/blob/master/ccl-csh-mac-resize.png?raw=true)](https://cloud.oracle.com/?region=us-ashburn-1&configoverride={"plugins":{"cloudshell":{"name":"cloudshell","path":"/cloudshell","url":"https://cloud-staging.oracle.com/plugins/cloudshell/latest/staging-oc1-index.tpl.html?cloudshellBackend=dev","type":"Sandbox"}},"features":{"code-editor":true,"cloudshellBackend":"dev","cse-enabled":"true"}}&cs_repo_url=https://github.com/oracle-devrel/oci-code-editor-samples.git&cs_open_ce=false&cs_readme_path=README.md&cs_branch=pre-prod&cs_initscript_path=run.sh)
+Clone the repository in OCI Cloud Shell: [![Clone in Cloud Shell](https://github.com/hyddel/db-appdev-vm/blob/master/ccl-csh-mac-resize.png?raw=true)](https://cloud.oracle.com/?region=home&cs_repo_url=https://github.com/oracle-devrel/oci-code-editor-samples.git&cs_open_ce=false&cs_readme_path=README.md&cs_branch=pre-prod&cs_initscript_path=run.sh)
 
-Open the repository in OCI Code Editor: [![Open in Code Editor](https://github.com/hyddel/db-appdev-vm/blob/master/ccl-ce-mac-resize.png?raw=true)](https://cloud.oracle.com/?region=us-ashburn-1&configoverride={"plugins":{"cloudshell":{"name":"cloudshell","path":"/cloudshell","url":"https://cloud-staging.oracle.com/plugins/cloudshell/latest/staging-oc1-index.tpl.html?cloudshellBackend=dev","type":"Sandbox"}},"features":{"code-editor":true,"cloudshellBackend":"dev","cse-enabled":"true"}}&cs_repo_url=https://github.com/oracle-devrel/oci-code-editor-samples.git&cs_open_ce=true&cs_readme_path=README.md&cs_branch=pre-prod&cs_initscript_path=run.sh)
+Open the repository in OCI Code Editor: [![Open in Code Editor](https://github.com/hyddel/db-appdev-vm/blob/master/ccl-ce-mac-resize.png?raw=true)](https://cloud.oracle.com/?region=home&cs_repo_url=https://github.com/oracle-devrel/oci-code-editor-samples.git&cs_open_ce=true&cs_readme_path=README.md&cs_branch=pre-prod&cs_initscript_path=run.sh)
 
 Try our new feature:(Click, Clone and Launch)
 -------------------
