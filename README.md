@@ -2,10 +2,10 @@
 
 <!--
 [![Open in Code Editor](https://github.com/hyddel/db-appdev-vm/blob/master/ccl-ce-mac-resize.png?raw=true)](https://cloud.oracle.com/?region=home&cs_repo_url=https://github.com/oracle-devrel/oci-code-editor-samples.git&cs_open_ce=true&cs_readme_path=README.md&cs_branch=pre-prod&cs_initscript_path=run.sh)
+-----------------
 -->
 
------------------
-(Information below this not needed for CCL demo)
+<!--(Information below this not needed for CCL demo)-->
 
 [![License: UPL](https://img.shields.io/badge/license-UPL-green)](https://img.shields.io/badge/license-UPL-green) [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=oracle-devrel_oci-code-editor-samples)](https://sonarcloud.io/dashboard?id=oracle-devrel_oci-code-editor-samples)
 
